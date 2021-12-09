@@ -12,7 +12,7 @@ R
 ## Data
 Big Cars by [ EPA ](https://www.fueleconomy.gov/feg/download.shtml)
 
-
+![./plots/2019_42/2019_42_BigCars_Highway.gif](https://raw.githubusercontent.com/a-king12/TidyTuesday-recreation/master/tema-proj/2019_42_big_cars_city.gif)
 
 ### TidyTuesday Inspiration:
 https://github.com/Z3tt/TidyTuesday
